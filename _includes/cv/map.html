@@ -1,0 +1,9 @@
+<div class="content-list">
+  <ul>
+      {% for content in entry.contents %}
+          <li>
+              <span class="font-weight-bold">{{ content.name }}:</span> {{ content.value }}
+          </li>
+      {% endfor %}
+  </ul>
+</div>
