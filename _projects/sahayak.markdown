@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "<b> Sahayak</b>"
+title: Sahayak
 description: "<b>An Intelligent AI Health Assistant</b>"
 img: /assets/img/sahayak.jpeg
 importance: 1

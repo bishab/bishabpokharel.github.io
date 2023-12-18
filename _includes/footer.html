@@ -6,8 +6,8 @@
   <footer class="sticky-bottom mt-5">
 {% endif %}
     <div class="container {% if site.footer_fixed %}mt-0{% endif %} text-center d-flex justify-content-center">
-      &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
-      {{ site.footer_text }}
+      &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }}&nbsp;{{ site.middle_name }}&nbsp;{{ site.last_name }}.
+      {{ site.footer_text | replace: ' ', '&nbsp;' | safe }}
       {% if site.last_updated %}
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
       {% endif %}
