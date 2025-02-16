@@ -4,7 +4,7 @@
     - name: Full Name
       value: Bishab Pokharel
     - name: Languages
-      value: English, Nepali, Hindi, German (Basic)
+      value: English, German (B1), Nepali, Hindi
     - name: Nationality
       value: Nepal (Nepalese)
       
@@ -14,25 +14,62 @@
   contents:
     - title: <a href="https://www.master-intelligent-adaptive-systems.com/intelligent-adaptive-systems-course-program/" target="_blank">M.Sc. Intelligent Adaptive Systems</a>
       institution: <a href="https://uni-hamburg.de/" target="_blank">Universität Hamburg</a>, Hamburg, Germany
-      year: 2023
+      year: Oct, 2022 - Current
     - title: B.Tech. Computer Science and Engineering
       institution: <a href="https://www.lpu.in/" target="_blank">LPU</a>, Phagwara, India
-      year: 2022
+      year: 2018 - 2022
     - title: Higher Secondary Education
       institution: <a href="https://ktmmodelcollege.edu.np/" target="_blank">Kathmandu Model Secondary School</a>, Kathmandu, Nepal
-      year: 2018
+      year: 2016 - 2018
     
 
 - title: Experience
   type: time_table
   contents:
+    - title: Werkstudent Data and Analytics
+      institution: <a href="https://www.crossnative.com" target="_blank">Crossnative</a>, Hamburg, Germany
+      year: Jan 2024 - Present
+      description: 
+        - LLM Training and Fine Tuning (mistral, Llama)
+        - Machine Learning Optimization and Integration for business use-cases.
+        - MLOps & LLMOps - monitoring and deployment of ML and LLM models.
+        - Cloud Services and Infrastructure Management (Microsoft Azure, GCP, AWS, Terraform)
+        - Containerization and Orchestration (Docker, K8s)
+
     - title: Werkstudent in ML Development and Infrastructure
       institution: <a href="https://www.adalab.ai" target="_blank">Adalab UG</a>, Hamburg, Germany
       year: Feb 2023 - Aug 2023
+      description: 
+        - Docker and Kubernetes Cluster Management for Service Deployment and Scaling
+        - Web and RESTful API Development (Python Tornado, Flask, Django)
+        - AI Model Integration and Deployment (Diffusion Models, GPTs) with Kubernetes and Containerization
+        - Rigorous Testing and Monitoring for AI Model Reliability and High Availability
 
     - title: Machine Learning Engineer Intern
       institution: Robofied, Indore, India
       year: Feb 2022 - Sep 2022
+      description:
+        - Data Analysis & Expressive and Insights driven Data Visualizations using Pandas & Matplotlib.
+        - Training and Testing Machine Learning & Deep Learning Models using Scikit-Learn, XGBoost, LightGBM, Keras, Tensorflow.
+        - Development of Fulfillment Based Healthcare Chatbot with RASA Framework.
+        - API Development & Deployment with FastAPI and Flask Frameworks.
+        - Development of Test Driven ML UI with Streamlit.
+        - Deployment, Regular Update & Monitoring of ML Models on GCP & Amazon EC2 Platforms.
+        
+    - title: Machine Learning Engineer Intern
+      institution: Technocolabs, India
+      year: Dec 2020 - Jan 2021
+      description:
+        - Comment classification on Twitter Livestream data with Word Vector Embeddings (word2vec, BERT)
+        - Development of Interactive web-app for real-time toxic words classification from sentences.
+        - Deployment and monitoring of ML across Google Cloud Platform.
+
+    - title: Data Science & Business Analytics Intern
+      institution: The Sparks Foundation, Singapore (Remote)
+      year: Nov 2020 - Dec 2020
+      description:
+        - Data Visualization and Analysis using Tableau and PowerBI.
+        - Data Curation, EDA, Analysis and Insights generation on Plant Disease Data with SVM, PCA, Bagging (Ensemble Learning models) and Boosting (xgboost, catboost & lightgbm).
 
 - title: Open Source Projects
   type: time_table
@@ -44,4 +81,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Football, <a href=https://letterboxd.com/bishab/>Movies</a>, Poetry.
+    - <u>Hobbies:</u> Football, Literature, Hiking 

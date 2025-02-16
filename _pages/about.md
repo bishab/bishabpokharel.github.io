@@ -14,9 +14,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student of the program <b>Intelligent Adaptive Systems (MSc.)</b> at <b>Universität Hamburg, Germany.</b> My research interests are in Natural Language Processing, Deep NN and MLOps. 
+I am a graduate student of the program <b>Intelligent Adaptive Systems (MSc.)</b> at <b>Universität Hamburg, Germany.</b> My research interest is towards LLM training, fine-tuning, deployment, and cross-model evaluation, with knowledge in modern-day LLMs and LLMOps. 
 
-I have been working on several projects in the field of NLP, Backend, and DevOps for more than two years now. Previously I worked as a <b>Werkstudent for ML Development</b> at <a href="https://www.adalab.ai" target="_blank">Adalab</a>, and <b>Machine Learning Engineer Intern</b> at <a href="https://www.linkedin.com/company/robofied" target="_blank">Robofied</a> and <a href="https://technocolabs.com" target="_blank">Technocolabs</a>.
+I have 3 years of experience in generative AI for texts (GPT, Llama, Mistral) and vision (GANs, GPT-4o, DALL-E), fulfillment-based chatbots (RASA, Google DialogFlow), Deep Learning and CV (CNNs, YOLO), Software Systems (Python Django, FastAPI, Flask), DevOps (Docker, k8s), and Cloud Services and System Architecture (Terraform for IaaS, Microsoft Azure, GCP, Amazon AWS).
+
+I am working as a <b>Data and Analytics Werkstudent</b> at <a href="https://www.crossnative.com" target="_blank">Crossnative</a> where I develop and deploy client-specific LLM pipelines for business and finance.
+Previously I worked as a <b>Werkstudent for ML Development</b> at <a href="https://www.adalab.ai" target="_blank">Adalab</a>, and <b>Machine Learning Engineer Intern</b> at <a href="https://www.linkedin.com/company/robofied" target="_blank">Robofied</a> and <a href="https://technocolabs.com" target="_blank">Technocolabs</a>.
 
 
 You can find more about my experience and academic background on my CV.
