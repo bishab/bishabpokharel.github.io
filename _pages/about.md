@@ -14,9 +14,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student of the program <b>Intelligent Adaptive Systems (MSc.)</b> at <b>Universität Hamburg, Germany.</b> My research interest is towards LLM training, fine-tuning, deployment, and cross-model evaluation, with knowledge in modern-day LLMs and LLMOps. 
+I am a graduate student of the program <b>Intelligent Adaptive Systems (MSc.)</b> at <b>Universität Hamburg, Germany.</b> My research interest is towards generative AI (text and vision), LLMOps and NLU/NLG.
 
-I have 3 years of experience in generative AI for texts (GPT, Llama, Mistral) and vision (GANs, GPT-4o, DALL-E), fulfillment-based chatbots (RASA, Google DialogFlow), Deep Learning and CV (CNNs, YOLO), Software Systems (Python Django, FastAPI, Flask), DevOps (Docker, k8s), and Cloud Services and System Architecture (Terraform for IaaS, Microsoft Azure, GCP, Amazon AWS).
+I have hands-on knowledge in the latest <b>genAI domain</b>, including text models (<b>GPT, Llama. Mistral</b>), and <b>vision models (GANs, DALL-E,GPT-4o).</b> With 3 years of experience in fulfillment-based chatbots (<b>RASA, Google DialogFlow</b>), deep learning (<b>CNNs, YOLO</b>), software systems (Python Django, FastAPI, Flask), DevOps (Docker, k8s), and cloud services and system architecture (<b>Terraform for IaaS, Microsoft Azure, GCP, AWS</b>), my recent research focus is towards making generative AI productive to non-IT sectors of the industry.
 
 I am working as a <b>Data and Analytics Werkstudent</b> at <a href="https://www.crossnative.com" target="_blank">Crossnative</a> where I develop and deploy client-specific LLM pipelines for business and finance.
 Previously I worked as a <b>Werkstudent for ML Development</b> at <a href="https://www.adalab.ai" target="_blank">Adalab</a>, and <b>Machine Learning Engineer Intern</b> at <a href="https://www.linkedin.com/company/robofied" target="_blank">Robofied</a> and <a href="https://technocolabs.com" target="_blank">Technocolabs</a>.

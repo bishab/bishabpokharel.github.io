@@ -32,8 +32,8 @@
       description: 
         - LLM Training and Fine Tuning (mistral, Llama)
         - Machine Learning Optimization and Integration for business use-cases.
-        - MLOps & LLMOps - monitoring and deployment of ML and LLM models.
         - Cloud Services and Infrastructure Management (Microsoft Azure, GCP, AWS, Terraform)
+        - MLOps & LLMOps - monitoring and deployment of ML and LLM models (Azure AutoML, Azure OpenAI Service)
         - Containerization and Orchestration (Docker, K8s)
 
     - title: Werkstudent in ML Development and Infrastructure
